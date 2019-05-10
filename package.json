@@ -1,0 +1,20 @@
+{
+  "name": "aframe-google-poly-component",
+  "version": "1.0.0",
+  "description": "google poly component for AFRAME (http://aframe.io) \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[rame",
+  "main": "aframe-google-poly-component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aframe",
+    "webvr",
+    "vr",
+    "virtual",
+    "reality",
+    "toprank",
+    "marketing"
+  ],
+  "author": "patrick pineda",
+  "license": "MIT"
+}
