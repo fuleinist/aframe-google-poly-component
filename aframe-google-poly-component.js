@@ -97,6 +97,13 @@ AFRAME.registerComponent('google-poly', {
       system = this.system;
     system.loadAsset(data.src, el);
   }
+  update: function () {
+     var comp = this,
+     el = this.el,
+     data = this.data,
+     system = this.system;
+    system.loadAsset(data.src, el);
+  },
 })
 AFRAME.registerPrimitive('a-google-poly', {
   defaultComponents: {
